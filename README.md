@@ -25,7 +25,7 @@ https://recordit.co/GTVW1SlSWN
 
 ### Takeaways: 
 
-Why do I like tailwind? You can set up a grid this easily: 
+Why do I like tailwind? It can do a lot with a little code. You can set up a grid this easily: 
 
 
   - div className='grid grid-cols-3 gap-4'
@@ -33,4 +33,6 @@ Why do I like tailwind? You can set up a grid this easily:
  You can make your layout responsive this easily: 
  
     - div className='container mx-auto'
+    
+I also like inline styling for small-size applications. For larger applications or things that I think would need to scale, if I wanted to use Tailwind, I would use tailwind macros within styled components, but for small applications like this, inline styling is fine as well, especially for beginners who are still trying to learn the cause-effect nature of cascading style sheets, which can be maddening. 
 
