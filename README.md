@@ -1,10 +1,13 @@
-# A Simple Image Finder 
+# A Simple Image Finder using Pixabay image search API 
+
+https://recordit.co/GTVW1SlSWN
 
 ### Technologies used: 
 
--React w useEffect and useStateHooks
+-React w useEffect and useState hooks
 
 -TailwindCSS
+
 
 ### Patterns used: 
 
@@ -14,7 +17,9 @@
 
 -destructuring fetched data in ImageCard component props and pass the destructured data within semantic JSX using map(). 
 
+-displaying enlarged modal onClick() of any image. 
+
 -Storing API keys in process.env files
 
-https://recordit.co/GTVW1SlSWN
+
 
