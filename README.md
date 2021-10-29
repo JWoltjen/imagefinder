@@ -1,4 +1,5 @@
 # A Simple Image Finder 
 
 
-![reccordit](https://g.recordit.co/GTVW1SlSWN.gif)
+https://recordit.co/GTVW1SlSWN
+
