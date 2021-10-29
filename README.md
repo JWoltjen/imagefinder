@@ -25,5 +25,9 @@ https://recordit.co/GTVW1SlSWN
 
 ### Takeaways: 
 
-Why do I like tailwind? You can set up a grid this easily: <div className='grid grid-cols-3 gap-4'>. You can make your layout responsive this easily: <div className='container mx-auto'>. 
+Why do I like tailwind? You can set up a grid this easily: 
+  - <div className='grid grid-cols-3 gap-4'>. 
+  
+ You can make your layout responsive this easily: 
+    -<div className='container mx-auto'>. 
 
