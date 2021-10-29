@@ -2,6 +2,10 @@
 
 https://recordit.co/GTVW1SlSWN
 
+### Overview
+
+This application queries a third-party api and returns a number of results that is set by the user. The results are displayed in a responsive grid. Each result is stored in a card that is made up of an image, the number of likes the result has, and any tags that image is tagged with. If a user clicks on the image, a modal will pop up and expand the image. The modal can be closed on click as well.
+
 ### Technologies used: 
 
 -React w useEffect and useState hooks
