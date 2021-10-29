@@ -3,6 +3,7 @@
 ### Technologies used: 
 
 -React w useEffect and useStateHooks
+
 -TailwindCSS
 
 ### Patterns used: 
